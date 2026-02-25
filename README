@@ -1,0 +1,51 @@
+🎓 Student Mental Health Analysis
+
+SQL + Tableau Project
+
+📌 Overview
+
+This project analyzes student lifestyle and mental health survey data using MySQL for data cleaning and Tableau for visualization.
+
+The objective was to transform raw data, create meaningful segments, and build an interactive dashboard to uncover insights.
+
+🛠 Tools Used
+
+  MySQL (Data cleaning & aggregation)
+  
+  Tableau (Dashboard & visualization)
+  
+  GitHub (Version control)
+
+🔄 Data Preparation (SQL)
+
+  Standardized gender values (Male/Female → M/F)
+  
+  Created Age_Group using CASE logic
+  
+  Aggregated counts for:
+  
+    Academic Pressure
+    
+    Study Satisfaction
+    
+    Sleep Duration
+    
+    Financial Stress
+    
+    Depression
+    
+    Family History of Mental Illness
+
+📊 Tableau Dashboard
+
+The dashboard includes:
+
+  Gender & Age segmentation
+  
+  Academic pressure distribution
+  
+  Sleep & dietary patterns
+  
+  Financial stress analysis
+  
+  Depression overview
